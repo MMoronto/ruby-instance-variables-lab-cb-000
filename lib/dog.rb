@@ -3,7 +3,7 @@ class Dog
     this_dogs_name = dog_name 
   end 
   
-  def nam=(dog_name)
+  def nam(dog_name)=
     this_dogs_name = dog_name 
   end 
 end 
